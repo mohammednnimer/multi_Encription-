@@ -1,0 +1,206 @@
+51 154
+Jaber 40 40
+Washington_D.C. 38 -78
+Berlin 52 13
+Tokyo 35 137
+Paris 48 2
+Moscow 55 38
+Beijing 39 116
+Cairo 30 31
+Ottawa 50 -75
+Mexico_City 19 -100
+Madrid 40 -3
+New_Delhi 28 77
+Brasília -15 -47
+Seoul 37 127
+Canberra -35 144
+Doha 25 51
+Abu_Dhabi 24 54
+Riyadh 24 46
+Amman 31 35
+Algiers 36 3
+Tunis 36 10
+Baghdad 33 44
+Beirut 33 35
+Tripoli 32 13
+Kuwait_City 29 47
+Muscat 23 58
+Sana'a 14 44
+London 57 0
+Dubai 25 55
+Istanbul 41 29
+Athens 37 23
+Jakarta -6 106
+Dhaka 23 90
+Copenhagen 55 13
+Kyiv 50 30
+Amsterdam 52 4
+Kuala_Lumpur 3 101
+Nairobi 1 36
+Warsaw 52 21
+Addis_Ababa 9 38
+Lima -12 -77
+Rabat 34 -6
+Khartoum 15 32
+Pretoria -25 28
+Oslo 59 10
+Stockholm 59 18
+Lusaka -15 28
+Helsinki 60 25
+Santiago -33 -70
+Buenos_Aires -36 -67.4
+Bucharest 44 26
+washington_d.c. berlin 500 420
+berlin madrid 50 40
+washington_d.c. madrid 450 420
+tokyo london 200 120
+paris moscow 150 180
+beijing cairo 350 240
+ottawa mexico_city 300 200
+madrid new_delhi 450 360
+madrid rabat 150 70
+brasília seoul 600 500
+canberra doha 250 180
+abu_dhabi riyadh 200 150
+amman algiers 300 250
+tunis baghdad 350 300
+beirut tripoli 100 60
+kuwait_city muscat 200 180
+sana'a dubai 400 350
+istanbul athens 250 180
+jakarta dhaka 150 120
+Jaber Cairo 500 290
+copenhagen kyiv 300 250
+amsterdam kuala_lumpur 350 330
+nairobi warsaw 500 400
+addis_ababa lima 600 500
+rabat khartoum 350 280
+riyadh algiers 450 420
+cairo pretoria 550 480
+oslo nairobi 400 350
+stockholm lusaka 250 220
+washington_d.c. tokyo 600 550
+berlin london 300 250
+paris beijing 350 330
+moscow cairo 400 370
+ottawa dubai 500 450
+mexico_city madrid 250 200
+new_delhi brasília 600 500
+seoul canberra 650 600
+doha abu_dhabi 150 120
+riyadh amman 200 150
+algiers tunis 100 90
+baghdad beirut 250 180
+tripoli kuwait_city 300 270
+muscat sana'a 350 320
+dubai istanbul 450 420
+athens jakarta 400 380
+dhaka copenhagen 350 330
+kyiv amsterdam 300 250
+kuala_lumpur nairobi 450 400
+warsaw addis_ababa 500 450
+lima rabat 600 500
+khartoum riyadh 300 250
+pretoria algiers 400 350
+oslo cairo 550 480
+nairobi stockholm 350 300
+washington_d.c. copenhagen 400 350
+berlin kyiv 250 220
+tokyo amsterdam 350 300
+london kuala_lumpur 500 450
+paris nairobi 450 400
+moscow stockholm 200 180
+beijing oslo 400 350
+ottawa addis_ababa 450 400
+mexico_city stockholm 350 320
+new_delhi khartoum 500 450
+brasília lima 600 500
+seoul rabat 450 420
+canberra riyadh 600 550
+doha algiers 250 200
+abu_dhabi athens 200 150
+amman dhaka 350 300
+algiers kyiv 300 250
+tunis nairobi 400 350
+baghdad warsaw 450 420
+beirut stockholm 200 180
+tripoli lusaka 550 480
+kuwait_city pretoria 600 550
+muscat rabat 500 450
+sana'a algiers 350 300
+dubai addis_ababa 400 370
+istanbul mexico_city 550 500
+athens oslo 450 400
+jakarta amsterdam 400 380
+copenhagen moscow 300 250
+kyiv lima 450 420
+amsterdam addis_ababa 500 450
+kuala_lumpur khartoum 350 300
+nairobi riyadh 600 550
+warsaw tokyo 700 650
+lima tripoli 400 350
+rabat riyadh 250 200
+khartoum amman 300 250
+pretoria kyiv 500 450
+oslo beirut 400 350
+nairobi istanbul 450 400
+washington_d.c. jakarta 600 550
+berlin warsaw 300 250
+tokyo dubai 500 450
+london beijing 350 320
+paris copenhagen 200 180
+moscow athens 400 350
+ottawa stockholm 350 300
+mexico_city seoul 500 450
+new_delhi oslo 400 350
+brasília tokyo 700 650
+seoul moscow 400 350
+canberra nairobi 600 550
+doha kuala_lumpur 250 220
+abu_dhabi oslo 300 250
+amman kyiv 400 350
+algiers istanbul 350 320
+tunis athens 200 180
+baghdad dubai 300 270
+beirut riyadh 400 350
+tripoli washington_d.c. 500 450
+kuwait_city stockholm 350 300
+muscat mexico_city 500 450
+sana'a tokyo 700 650
+dubai nairobi 400 350
+istanbul cairo 300 270
+athens buenos_aires 250 200
+jakarta moscow 600 550
+copenhagen canberra 400 350
+kyiv tokyo 600 550
+amsterdam santiago 500 450
+kuala_lumpur warsaw 350 300
+nairobi bucharest 400 350
+warsaw addis_ababa 400 350
+lima amman 450 400
+khartoum algiers 400 350
+pretoria rabat 400 350
+oslo london 250 200
+nairobi cairo 400 350
+washington_d.c. tokyo 600 550
+berlin kyiv 350 320
+paris dubai 400 370
+moscow beirut 350 320
+beijing moscow 400 350
+ottawa amsterdam 350 300
+mexico_city athens 400 370
+new_delhi riyadh 500 450
+brasília lima 600 500
+seoul addis_ababa 400 350
+canberra tokyo 600 550
+doha dubai 150 120
+abu_dhabi paris 250 220
+amman dubai 350 300
+algiers cairo 250 220
+tunis helsinki 400 350
+baghdad tokyo 450 420
+beirut kyiv 400 350
+tripoli muscat 300 250
+kuwait_city tokyo 550 500
+muscat tokyo 600 550
+sana'a beijing 700 650
